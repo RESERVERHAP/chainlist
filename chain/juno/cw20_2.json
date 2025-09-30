@@ -4,7 +4,7 @@
         "contract": "terra1ww7lrf4rs3z2feassfsyeq4glyv55mycm2hn5fnts56ypgsg7ntss39754",
         "name" : "RH RESERVE",
         "symbol": "RHAP",
-        "description": "The native token cw20",
+        "description": "RH METAL RESERVE, CONVERTED INTO TOKEN",
         "decimals": 6,
         "image": "https://ibb.co/Vcymkvb6",
         "coinGeckoId": "neta",
