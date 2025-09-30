@@ -1,6 +1,18 @@
 [
     {
         "type": "cw20",
+        "contract": "terra1ww7lrf4rs3z2feassfsyeq4glyv55mycm2hn5fnts56ypgsg7ntss39754",
+        "name" : "RH RESERVE",
+        "symbol": "RHAP",
+        "description": "The native token cw20",
+        "decimals": 6,
+        "image": "https://ibb.co/Vcymkvb6",
+        "coinGeckoId": "neta",
+        "color": "#FDFD96",
+        "wallet_preload": true
+    },
+    {
+        "type": "cw20",
         "contract": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
         "name" : "Neta",
         "symbol": "NETA",
